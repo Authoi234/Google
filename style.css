@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* google style */
+.div-center{
+    text-align: center;
+}
+.google-font-size{
+    font-size: 100px;
+    letter-spacing: -10px;
+    margin-top: 150px;
+}
+.g-color{
+    color: #4285f4;
+}
+.o1-color{
+    color: #EA4335;
+}
+.o2-color{
+    color: #FBBC05;
+}
+.l-color{
+    color: #34A885;
+}
+/* input style */
+.input-style{
+    font-size: 17px; 
+    padding-left:30px;
+    width: 540px;
+    height: 45px;
+    border-radius: 30px;
+    margin: 25px 0px;
+    border: none;
+    box-shadow: 0 0 5px 1px rgb(182, 182, 182);
+}
+.btn-style{
+    margin-bottom: 20px;
+    padding: 10px 25px;
+    font-size: 18px;
+    border-radius: 5px;
+    box-shadow: 0 0 3px 1px gray;
+}
+
+/* icon bg color */
+
+.bg-color{
+    height: 110px;
+    width: 110px;
+    margin: 0px 5px;
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bg-color:hover{
+    background-color: #E8E8E8;
+    font-size: 25px;
+}
+.d-flex{
+    display: flex;
+    justify-content: center;
+}
+.text-decoration{
+    text-decoration: none;
+    color: #272626;
+}
+/* hover */
+.youtube-box:hover{
+    color:red;
+}
+.play-box:hover{
+    color: green;
+}
+.map-box:hover{
+    color: blue;
+}
